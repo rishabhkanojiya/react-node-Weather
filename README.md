@@ -5,7 +5,8 @@
 
 > A React and Node based Weather App
 
-![Screenshot](file:///home/rishabh/Pictures/Screenshot%20from%202019-06-26%2000-13-53.png)
+![Screenshot](https://user-images.githubusercontent.com/30200462/60126663-1ab8d280-97ac-11e9-80ef-4c86fd0ff0ae.png)
+
 
 
 When the app is loaded it consist of 
